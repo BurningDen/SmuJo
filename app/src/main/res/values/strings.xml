@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmuJo</string>
+    <string name="friendRoom">FriendRoom</string>
+    <string name="join">Join</string>
+</resources>
